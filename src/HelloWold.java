@@ -1,5 +1,6 @@
 
 public class HelloWold {
+	public int a;
 
 	/**
 	 * @param args
